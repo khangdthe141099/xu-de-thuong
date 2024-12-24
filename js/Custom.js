@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Giáng sinh zui ze nha !!!, Chúc bản thân luôn thành công trên con đường đã chọn. Một mùa noel thật ấm áp nha.",
+                        "Giáng sinh zui ze nha !!!, Chúc tình iu của anhhh luôn thành công trên con đường đã chọn. Một mùa noel thật ấm áp nha, Giao thừa mình bên nhau nhé, hihi ! ",
                         ],
                         typeSpeed: 250,
                         startDelay: 100,

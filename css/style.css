@@ -132,6 +132,16 @@ body {
 }
 /* Santa Claus End */
 
+.xu-img {
+	position: absolute;
+	width: 366px;
+	height: 366px;
+	top: 71%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
 /* Reindeer Begin */
 #reindeer {
 	position: fixed;
